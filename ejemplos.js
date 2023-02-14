@@ -1,0 +1,1 @@
+let sumar=n1=>n1+100
